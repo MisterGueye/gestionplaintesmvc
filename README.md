@@ -1,7 +1,7 @@
 ### Modele MVC comme SAMANEMVC
 
 ```
-    DITI ' - 2019
-    @GROUP _ ISI
+    DITI4 - 2019
+    @GROUPE - ISI
 
 ```
